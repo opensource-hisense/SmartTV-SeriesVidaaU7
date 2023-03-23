@@ -1,0 +1,10 @@
+NAME=valgrind
+VERSION=3.19.0
+URL=http://www.valgrind.org/
+LICENSE=GNU General Public License, version 2.
+OWNER=Eric-cz Huang
+SOURCE=oss/source/valgrind
+MTK_MODIFY=No
+USAGE=Program
+INSTALL_PATH=bin
+COMMENT=Detect many memory management and threading bugs.
